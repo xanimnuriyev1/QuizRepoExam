@@ -1,0 +1,51 @@
+.Footer{
+    background-color: #222222;
+    margin-top: 200px;
+}
+.Foot-box{
+    padding: 50px 50px;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+h4{
+    color: #A0A0A0;
+}
+a{
+    color: #7A7C7E;
+}
+a:hover{
+    color: orange;
+}
+.Foot-text{
+    color: #595959;
+}
+.info-box{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.Icon{
+    color: #6D6D6D;
+    font-size:20px ;
+}
+.icon-box{
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2D2D2D;
+    height: 50px;
+    border-radius: 50%;
+}
+.Icons{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    gap: 20px;
+}
+.Foot-Down{
+    text-align: center;
+    color: #595959;
+    margin-top: 20px;
+}

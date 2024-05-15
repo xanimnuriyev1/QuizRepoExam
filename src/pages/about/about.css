@@ -1,0 +1,16 @@
+.Form{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+form{
+    background-color: #7A7C7E;
+    width: 380px;
+    padding: 30px;
+    margin-top: 20px;
+}
+input{
+    height: 50px;
+    width: 300px;
+}
